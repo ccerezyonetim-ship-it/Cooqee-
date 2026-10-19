@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Cooqee CMP",
+  "categories": ["CONSENT_MANAGEMENT"],
   "description": "Cooqee CMP - KVKK/GDPR consent manager. Sets Google Consent Mode v2 defaults to denied, loads the banner, and publishes consent via Consent Mode v2, IAB TCF v2.2, Google AC v2 and IAB GPP.",
   "containerContexts": ["WEB"]
 }
