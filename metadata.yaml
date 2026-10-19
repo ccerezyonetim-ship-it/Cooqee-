@@ -1,5 +1,5 @@
 homepage: "https://cooqee.com.tr"
 documentation: "https://github.com/ccerezyonetim-ship-it/Cooqee-/blob/main/README.md"
 versions:
-  - sha: 6bf4cf97f952653becb09389ccf8addb8208b4e7
+  - sha: 4f1bc51cbcca6946e3d7bdbde7538f039942a103
     changeNotes: Initial release. Cooqee CMP - KVKK/GDPR consent manager that sets Google Consent Mode v2 defaults to denied, loads the Cooqee banner, and publishes consent via Consent Mode v2, IAB TCF v2.2, Google Additional Consent v2, and IAB GPP.
